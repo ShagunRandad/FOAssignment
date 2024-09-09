@@ -16,4 +16,4 @@ RUN mv DemoClass.java fodockerassignment/
 RUN javac fodockerassignment/DemoClass.java
 
 # Run the Java program using the fully qualified name
-CMD ["java", "fodockerassignment.DemoClass"]
+CMD ["java", "fodockerassignment.DemoClass"]   
